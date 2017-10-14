@@ -9,11 +9,12 @@
 // @description:zh      在 Coursera 显示中英双字幕或手动更改脚本来更换其它语言
 // @description:zh-CN   在 Coursera 显示中英双字幕或手动更改脚本来更换其他语言
 // @description:zh-TW   于 Coursera 顯示中英雙字或手動更改脚本來更換其他語言
-// @author       You
+// @author       LouizQ
 // @include      http://www.coursera.org/*
 // @include      https://www.coursera.org/*
 // @grant        none
 // @run-at       document-end
+// @updateURL    https://github.com/orz12/script-show-english-and-chinese-subtitles-for-coursera/raw/master/script-show-english-and-chinese-subtitles-for-coursera.user.js
 // ==/UserScript==
 
 (function() {
